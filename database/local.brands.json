@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e36f"), 
+    "name" : "ADIDAS", 
+    "lName" : "adidas", 
+    "qTy" : 100.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e370"), 
+    "name" : "FENDI", 
+    "lName" : "fendi", 
+    "qTy" : 90.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e371"), 
+    "name" : "GUESS", 
+    "lName" : "guess", 
+    "qTy" : 80.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e372"), 
+    "name" : "VALENTINO", 
+    "lName" : "valentino", 
+    "qTy" : 100.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e373"), 
+    "name" : "DIOR", 
+    "lName" : "dior", 
+    "qTy" : 90.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e374"), 
+    "name" : "VERSACE", 
+    "lName" : "versace", 
+    "qTy" : 80.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e375"), 
+    "name" : "ARMANI", 
+    "lName" : "armani", 
+    "qTy" : 100.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e376"), 
+    "name" : "PRADA", 
+    "lName" : "prada", 
+    "qTy" : 90.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e377"), 
+    "name" : "DOLCE AND GABBANA", 
+    "lName" : "dolce and gabbana", 
+    "qTy" : 80.0
+}
+{ 
+    "_id" : ObjectId("592ed58f50c4e2aa4799e378"), 
+    "name" : "CHANNEL", 
+    "lName" : "channel", 
+    "qTy" : 100.0
+}

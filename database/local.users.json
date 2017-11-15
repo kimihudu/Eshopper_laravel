@@ -1,0 +1,107 @@
+{ 
+    "_id" : ObjectId("593c8b80b6b75118140065e8"), 
+    "usrName" : "admin", 
+    "psw" : "password", 
+    "name" : "admin", 
+    "role" : "admin", 
+    "address" : {
+        "line1" : "String", 
+        "city" : "String", 
+        "state" : "String", 
+        "zip" : NumberInt(12345)
+    }, 
+    "cart" : {
+        "status" : "active", 
+        "items" : {
+            "list" : {
+                "_id" : "59356afab6b75128ec007ff2", 
+                "quantity" : NumberInt(2)
+            }
+        }, 
+        "check_out" : {
+            "total" : NumberInt(100), 
+            "c_o_d" : "2017-06-11 12:14:56am"
+        }
+    }, 
+    "wishlist" : {
+        "status" : "active", 
+        "items" : {
+            "list" : {
+                "_id" : "59356afab6b75128ec007ff3", 
+                "quantity" : NumberInt(2)
+            }
+        }
+    }, 
+    "email" : "admin@admin.com"
+}
+{ 
+    "_id" : ObjectId("593c8ba12fe0c61fa81b9a01"), 
+    "usrName" : "user", 
+    "psw" : "password", 
+    "name" : "admin", 
+    "role" : "user", 
+    "address" : {
+        "line1" : "String", 
+        "city" : "String", 
+        "state" : "String", 
+        "zip" : NumberInt(12345)
+    }, 
+    "cart" : {
+        "status" : "active", 
+        "items" : {
+            "list" : {
+                "_id" : "59356afab6b75128ec007ff2", 
+                "quantity" : NumberInt(2)
+            }
+        }, 
+        "check_out" : {
+            "total" : NumberInt(100), 
+            "c_o_d" : "2017-06-11 12:14:56am"
+        }
+    }, 
+    "wishlist" : {
+        "status" : "active", 
+        "items" : {
+            "list" : {
+                "_id" : "59356afab6b75128ec007ff3", 
+                "quantity" : NumberInt(2)
+            }
+        }
+    }, 
+    "email" : "user@user.com"
+}
+{ 
+    "_id" : ObjectId("593c8ffbb6b75118140065e9"), 
+    "usrName" : "admin", 
+    "psw" : "password", 
+    "name" : "admin", 
+    "role" : "admin", 
+    "address" : {
+        "line1" : "String", 
+        "city" : "String", 
+        "state" : "String", 
+        "zip" : NumberInt(12345)
+    }, 
+    "cart" : {
+        "status" : "active", 
+        "items" : {
+            "list" : {
+                "_id" : "59356afab6b75128ec007ff2", 
+                "quantity" : NumberInt(2)
+            }
+        }, 
+        "check_out" : {
+            "total" : NumberInt(100), 
+            "c_o_d" : "2017-06-11 12:34:03am"
+        }
+    }, 
+    "wishlist" : {
+        "status" : "active", 
+        "items" : {
+            "list" : {
+                "_id" : "59356afab6b75128ec007ff3", 
+                "quantity" : NumberInt(2)
+            }
+        }
+    }
+}

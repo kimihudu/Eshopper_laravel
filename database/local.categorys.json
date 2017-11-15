@@ -1,0 +1,212 @@
+{ 
+    "_id" : ObjectId("59284c8253835f309cab9766"), 
+    "name" : "test", 
+    "lName" : "bags", 
+    "sub_cat" : [
+        {
+            "name" : "DKNY", 
+            "lName" : "dkny"
+        }, 
+        {
+            "name" : "DIOR", 
+            "lName" : "dior"
+        }, 
+        {
+            "name" : "MK", 
+            "lName" : "mk"
+        }, 
+        {
+            "name" : "EMILIO PUCCI", 
+            "lName" : "emillio pucci"
+        }, 
+        {
+            "name" : "CHLOE", 
+            "lName" : "chloe"
+        }, 
+        {
+            "name" : "BURBERRY", 
+            "lName" : "burberry"
+        }
+    ], 
+    "status" : "0", 
+    "updated_at" : ISODate("2017-06-13T13:38:16.000+0000"), 
+    "deleted_at" : ISODate("2017-06-13T13:38:16.000+0000")
+}
+{ 
+    "_id" : ObjectId("59284c8253835f309cab9767"), 
+    "name" : "SHOES", 
+    "lName" : "shoes", 
+    "sub_cat" : [
+        {
+            "name" : "ADIDAS", 
+            "lName" : "adidas"
+        }, 
+        {
+            "name" : "NIKE", 
+            "lName" : "nike"
+        }, 
+        {
+            "name" : "PUMA", 
+            "lName" : "puma"
+        }, 
+        {
+            "name" : "TIMBERLAND", 
+            "lName" : "timberland"
+        }, 
+        {
+            "name" : "JORDAN", 
+            "lName" : "jordan"
+        }, 
+        {
+            "name" : "DRINO", 
+            "lName" : "drino"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("59284c8253835f309cab9768"), 
+    "name" : "CLOTHING", 
+    "lName" : "clothing", 
+    "sub_cat" : ""
+}
+{ 
+    "_id" : ObjectId("59284c8253835f309cab9769"), 
+    "name" : "INTERIORS", 
+    "lName" : "interiors", 
+    "sub_cat" : ""
+}
+{ 
+    "_id" : ObjectId("59284c8253835f309cab976a"), 
+    "name" : "FASHION", 
+    "lName" : "fashion", 
+    "sub_cat" : ""
+}
+{ 
+    "_id" : ObjectId("59284c8253835f309cab976b"), 
+    "name" : "HOUSEHOLDS", 
+    "lName" : "households", 
+    "sub_cat" : ""
+}
+{ 
+    "_id" : ObjectId("59284c8253835f309cab976c"), 
+    "name" : "URBAN", 
+    "lName" : "urban", 
+    "sub_cat" : ""
+}
+{ 
+    "_id" : ObjectId("592de18bb6b75131ec000178"), 
+    "name" : "SPORTWEAR", 
+    "lName" : "sportwear", 
+    "sub_cat" : [
+        {
+            "name" : "ADIDAS", 
+            "lName" : "adidas"
+        }, 
+        {
+            "name" : "NIKE", 
+            "lName" : "nike"
+        }, 
+        {
+            "name" : "PUMA", 
+            "lName" : "puma"
+        }, 
+        {
+            "name" : "UNDER AMORE", 
+            "lName" : "under amore"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5932ccb61c7273636dc5f871"), 
+    "name" : "MENS", 
+    "lName" : "mens", 
+    "sub_cat" : [
+        {
+            "name" : "FENDI", 
+            "lName" : "fendi"
+        }, 
+        {
+            "name" : "GUESS", 
+            "lName" : "guess"
+        }, 
+        {
+            "name" : "VALENTINO", 
+            "lName" : "valentino"
+        }, 
+        {
+            "name" : "DIOR", 
+            "lName" : "dior"
+        }, 
+        {
+            "name" : "VERSACE", 
+            "lName" : "versace"
+        }, 
+        {
+            "name" : "ARMANI", 
+            "lName" : "armani"
+        }, 
+        {
+            "name" : "PRADA", 
+            "lName" : "prada"
+        }, 
+        {
+            "name" : "DOLCE AND GABBANA", 
+            "lName" : "dolce and gabbana"
+        }, 
+        {
+            "name" : "CHANNEL", 
+            "lName" : "channel"
+        }, 
+        {
+            "name" : "GUCCI", 
+            "lName" : "gucci"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5932cd201c7273636dc5f87f"), 
+    "name" : "WOMENS", 
+    "lName" : "womens", 
+    "sub_cat" : [
+        {
+            "name" : "FENDI", 
+            "lName" : "fendi"
+        }, 
+        {
+            "name" : "GUESS", 
+            "lName" : "guess"
+        }, 
+        {
+            "name" : "VALENTINO", 
+            "lName" : "valentino"
+        }, 
+        {
+            "name" : "DIOR", 
+            "lName" : "dior"
+        }, 
+        {
+            "name" : "VERSACE", 
+            "lName" : "versace"
+        }, 
+        {
+            "name" : "ARMANI", 
+            "lName" : "armani"
+        }, 
+        {
+            "name" : "PRADA", 
+            "lName" : "prada"
+        }, 
+        {
+            "name" : "DOLCE AND GABBANA", 
+            "lName" : "dolce and gabbana"
+        }, 
+        {
+            "name" : "CHANNEL", 
+            "lName" : "channel"
+        }, 
+        {
+            "name" : "GUCCI", 
+            "lName" : "gucci"
+        }
+    ]
+}
